@@ -83,6 +83,9 @@
 
 
 ## 3.具体需求
+​  首先我们以UML类图简单地考量软件中各类的关系  
+https://raw.githubusercontent.com/AllenW1998/imgplays/master/UML.png  
+
 
 
 ### 3-1.功能需求(每个功能下面应配一张游戏里的画面；最后应该整合一个UML类图确定玩家类和系统类的交互)
