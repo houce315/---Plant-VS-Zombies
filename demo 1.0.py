@@ -381,3 +381,5 @@ class MainGame():
 if __name__ == '__main__':
     game = MainGame()
     game.start_game()
+    
+#demo1.0 运行图：https://raw.githubusercontent.com/AllenW1998/imgplays/master/demo%201.0.png
